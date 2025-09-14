@@ -31,6 +31,9 @@ This repository hosts the full implementation of our research on **explainable s
 - 📂 Easy-to-understand tables, charts, and exports
 
 ---
+##  Research Work
+https://www.mijrd.com/papers/v4/i6/MIJRDV4I60009.pdf
+---
 
 ## 🗺️ Use Case
 
